@@ -1,0 +1,66 @@
+<html>
+<head>
+  <title> Max's Five Year Plan </title>
+
+        <link rel="stylesheet" href="nook-shop-mleitgeb.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css">
+
+  </head>
+  <body style="background-color:mimosa">
+
+<div class="div1">
+<div class="row">
+<div class="six colums x">
+  <h3> Five Years From Now </h3>
+  </div>
+  <div class="six columns y">
+    <img src="assets/logo.png"/>
+  </div>
+  </div>
+  </div>
+  <hr/>
+  <ul>
+    <li> <a href="https://nookazon.com/"> Online Catalogue </a> </li>
+    </ul>
+    <hr/>
+
+<div class="div2">
+  <p> Throughout time, Tom Nook has been updating his stores and stocking in new products. Sometimes new products are not enough to keep up with the demand of a growing town. Expansion to multiple stores is necessary. Tom Nook has tried to keep up with his growing demand in products by opening multiple locations such as: </p>
+
+  <ol>
+    <li> Nook 'n' Go </li>
+    <li> Nookington </li>
+    <li> Nook Cranny </li>
+    <li> Nookway </li>
+
+    </ol>
+    </div>
+    <hr/>
+    <div class="div3">
+      <div class="div3a">
+        <h3> Check out K.K. Slider! </h3>
+
+        <img src="assets/kk_slider.gif"/>
+        </div>
+        <p> K.K is always jamming in the town and plays his guitar for people to listen to </p>
+        </div>
+
+  <div class="div4">
+    <h3> Store Hours </h3>
+
+  <table class="c">
+    <tr> <th>Days</th> <th>Hours</th> </tr>
+    <tr> <td> Mon-Thu</td> <td> 8am-9pm</td></tr>
+    <tr> <td> Fri</td> <td> 8am-8pm</td></tr>
+    <tr> <td> Sat-Sun</td> <td> 9am-8pm</td></tr>
+    </table>
+
+    </div>
+    <p> Layout by <a href="http://getskeleton.com"> Skeleton </a> </p>
+
+    <p> Max Leitgeb (mleitgeb) 2020 &#169; </p>
+
+
+
+  </body>
+  </html>

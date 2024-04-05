@@ -1,0 +1,70 @@
+img {
+  border-radius: 35%;
+  border: black thin solid;
+  height: 100px;
+
+}
+
+.bg{
+  background-image: url("assets/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.div1{
+  border: solid black;
+  background-color: white;
+}
+.y{
+  text-align: left;
+}
+
+.x{
+  text-align: center;
+}
+
+.div2{
+  border: solid black;
+  margin:.5in 1in .5in 1in;
+  padding: 2;
+  background-color: white;
+
+}
+.div3{
+  border: solid black;
+  margin:.5in 1in .5in 1in;
+  padding: 2;
+  background-color: white;
+}
+.div3a{
+  text-align: center;
+}
+.div4{
+  border: solid black;
+  margin:.5in 1in .5in 1in;
+  padding: 2;
+  background-color: white;
+}
+
+.c{
+  margin-left: auto;
+  margin-right: auto;
+}
+table, th, td{
+  border: 1px solid green;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  margin: 1;
+  padding: 1;
+  width:250px;
+  background-color: white;
+  border: solid black;
+}
+li a{
+  display: block;
+  background-color: white;
+  padding: 6px 3px;
+}

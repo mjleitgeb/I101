@@ -1,0 +1,58 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: yellow;
+}
+li a{
+  display:block;
+  color: purple;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color:yellow;
+}
+.riddle{
+  border: 2px blue double;
+}
+.dumbledore{
+  border: 2px orange dashed;
+}
+.container{
+  border: 1px red solid;
+}
+.row{
+  border: 1px green solid;
+  margin:2%;
+}
+.columns{
+  color:black;
+}
+.Indiana{
+  margin: 0%;
+  padding: 3px 6px;
+  background-color: crimson;
+  color: white;
+}
+.Hoosiers{
+  margin: 0%;
+  padding: 3px 6px;
+  background-color: lightgray;
+  border: 2px black solid;
+}
+.Lebron{
+  margin: 0%;
+  padding: 5px 10px;
+  background-color: purple;
+  color:yellow;
+  border: 2px white dotted;
+}
+.James{
+  margin: 0%;
+  padding: 5px 10px;
+  background-color: blue;
+  color:yellow;
+  border: 2px maroon dashed;
+}

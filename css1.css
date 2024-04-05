@@ -1,0 +1,38 @@
+table, th, td {
+border: thin black solid;
+border-collapse: collapse;
+
+}
+
+th {
+  background-color: #000000;
+  color: white;
+}
+
+.tableRed {
+  background-color: pink;
+
+}
+
+.backBlue{
+  background-color: blue;
+}
+
+.backRed{
+  background-color: red;
+}
+.backO{
+  background-color: orange;
+}
+
+.backG{
+  background-color: green;
+}
+
+.backP{
+  background-color: purple;
+}
+
+.backY{
+  background-color: yellow;
+}

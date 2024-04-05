@@ -1,0 +1,52 @@
+.backgrounds
+{
+  background-image: url("images/desert.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 200px;
+}
+
+.spacing{
+  border: thick red dashed;
+  padding: 7px 20px 7px 20px;
+  margin: 1in 2in 4.5in 3in;
+}
+
+.div1, .div2{
+  border: 10px green solid;
+  border-radius: 10%;
+}
+
+.div2{
+  color: blue;
+}
+
+.div1{
+  padding: 10px;
+}
+
+.iu{
+  color:red;
+}
+
+.pu{
+  color:yellow;
+}
+
+.div3, .div4 {
+  border: 5px purple dashed;
+  border-radius: 25%
+}
+.div3{
+  padding: 30px;
+}
+  .div4{
+    color: red;
+  }
+
+.max{
+  color:orange;
+}
+
+.last{
+  color:pink;

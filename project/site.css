@@ -1,0 +1,42 @@
+body {
+	background-color: #FFF0F0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #463333;
+	text-align: center;
+}
+
+img {
+	border-radius: 25%;
+}
+
+em, b {
+	color: #463333;
+}
+
+.linkDiv {
+	text-align: center;
+}
+
+.container {
+	background-color: #EBD4D4;
+	color: #835858;
+}
+
+/*
+	Mainly yoinked from skeleton.css, edited here
+*/
+.button.button-primary {
+	margin-left: 5%;
+	margin-right: 5%;
+	background-color: #835858;
+	color: #fff0f0;
+	border-color: #463333;
+}
+
+.button.button-primary:hover{
+	background-color: #fff0f0;
+	color: #463333;
+	border-color: #463333;
+}
